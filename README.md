@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="[https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif](https://steamuserimages-a.akamaihd.net/ugc/771740386687275386/16AAD6D984529B24CEF5C62FD13DBFDB36709347/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)" width="100%">
+  <br><br>
+  <samp>
+    Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
+  </samp>
+</p>
