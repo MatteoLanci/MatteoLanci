@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src=https://mir-s3-cdn-cf.behance.net/project_modules/hd/642dbd44403941.581204335284b.jpg" width="100%">
+  <img src=https://mir-s3-cdn-cf.behance.net/project_modules/hd/642dbd44403941.581204335284b.jpg"/>
   <br><br>
   <samp>
     Hi,<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/Hi.gif" width="20px"> I'm Vimal kumar Web designer and developer working on <a href="https://github.com/letskhabar">@Letskhabar :octocat:</a> to support open source. Student at IIIT Ranchi :india:
