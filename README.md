@@ -1,51 +1,83 @@
-# Matteo Lanci
+<div align="center">
 
-**Software Developer** | Full-Stack Web Development | Italy
+# `matteo.lanci()`
 
-Building scalable web applications with modern technologies and AI-powered platforms.
+### Software Developer • Full-Stack • AI Platform Engineering
 
----
+```typescript
+const developer = {
+  location: "🇮🇹 Italy",
+  focus: ["Web Development", "AI Integration", "Scalable Architectures"],
+  status: "Building intelligent platforms"
+};
+```
 
-## 🛠️ Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://matteolanci.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteolanci/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@matteolanci)
 
-### Frontend
-- **Frameworks**: React, Next.js
-- **Languages**: JavaScript, TypeScript
-- **UI Libraries**: Mantine
-- **State Management**: Jotai
-- **Tools**: Orval, Next-intl
-- **Mobile**: Flutter (iOS/Android)
-
-### Backend
-- **Framework**: Django
-- **Database**: PostgreSQL
-- **Cloud**: Firebase
-
-### DevOps & Tools
-- CI/CD pipelines
-- Git version control
-- Modern development workflows
-
-### Core Web Technologies
-HTML5 • CSS3 • JavaScript • TypeScript
+</div>
 
 ---
 
-## 💼 Current Focus
+## ⚡ Tech Arsenal
 
-Working on AI-powered platform development with custom no-code workflows, integrating Django backends with React/Next.js frontends. Recent projects include compliance tooling and RAG-based skills for industry-specific applications.
+```yaml
+frontend:
+  frameworks: [React, Next.js]
+  languages: [TypeScript, JavaScript]
+  ui: [Mantine, HTML5, CSS3]
+  state: [Jotai]
+  i18n: [next-intl]
+  mobile: [Flutter]
+  
+backend:
+  framework: Django
+  database: PostgreSQL
+  cloud: Firebase
+  api: [Orval, REST]
+
+devops:
+  ci_cd: [Automated Pipelines]
+  vcs: [Git]
+  deployment: [Modern Workflows]
+```
 
 ---
 
-## 🔗 Connect
+## 🚀 Current Mission
 
-- **Portfolio**: [matteolanci.netlify.app](https://matteolanci.netlify.app/)
-- **LinkedIn**: [linkedin.com/in/matteolanci](https://www.linkedin.com/in/matteolanci/)
-- **Email**: m.lanci@live.com
-- **Medium**: [@matteolanci](https://medium.com/@matteolanci)
+**AI-Powered Platform Development**  
+Building custom no-code workflow systems with graph-based architectures • Django + React/Next.js stack • RAG implementations for industry-specific compliance tools • Multi-agent orchestration
+
+**Recent Highlights:**
+- 🎯 Compliance RAG skill with vectorstore optimization
+- 🔄 Real-time sync systems with WebSocket/Django Channels
+- 🧠 State-machine based multi-turn AI interactions
+- 📊 Client-facing workflow automation tools
 
 ---
 
-## 📫 Get in Touch
+## 💡 Open to
 
-Open to collaboration on web development projects, especially those involving React/Next.js ecosystems, Django backends, or AI-powered applications.
+```javascript
+const interests = [
+  "React/Next.js ecosystem projects",
+  "Django backend architectures", 
+  "AI-powered applications",
+  "Cross-platform mobile with Flutter",
+  "Scalable workflow automation"
+];
+```
+
+---
+
+<div align="center">
+
+### 📬 Let's Connect
+
+**[m.lanci@live.com](mailto:m.lanci@live.com)**
+
+*Building the future, one commit at a time* ⚡
+
+</div>
